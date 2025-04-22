@@ -1,3 +1,3 @@
-https://colab.research.google.com/drive/1giLgPASGeWVReqPFs4pykkO8pykx2Ouy?usp=sharing
+https://colab.research.google.com/drive/1IWajQXI34D2kIZQFs0JV0SmZ26SUIYIY?usp=sharing
 
 Untuk Dataset menyesuaikan, bisa di compile secara mandiri di code nya
